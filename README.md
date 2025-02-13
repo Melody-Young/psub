@@ -8,8 +8,13 @@ https://psub.888005.xyz
 https://youtu.be/X7CC5jrgazo
 
 环境变量名：`BACKEND`
+正在使用：
+`https://subapi.cmliussss.net` （支持vless）来源：https://github.com/cmliu/CF-Workers-SUB
+`https://pub-api-1.bianyuan.xyz/sub?` （不支持vless）来源：忘了
+备用：`https://convert.looby.us.kg`（支持vless）来源：https://github.com/jwyGithub/sub-convert
 
 KV或R2变量名：`SUB_BUCKET`
+
 
 ### 支持反代转换的协议
  - shadowsocks
